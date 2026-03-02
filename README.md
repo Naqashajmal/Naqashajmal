@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-I'm Naqash Ajmal, a passionate Software Engineer with a keen interest in creating innovative and efficient software solutions. I have a solid foundation in Data Structures and Algorithms and enjoy working on projects that challenge my problem-solving skills. 🚀 What I Do: 🌐 Web Development: Crafting responsive and user-friendly web applications. 💻 Java Programming: Writing clean, efficient, and scalable Java code. 🔄 Data Structures: Implementing custom data structures like stacks, queues, linked lists, and trees. 🎨 GUI Design: Developing attractive and intuitive user interfaces.
+I'm Naqash Ajmal, a passionate Software Engineer with a keen interest in creating innovative and efficient software solutions. I have a solid foundation in Data Structures and Algorithms and enjoy working on projects that challenge my problem-solving skills. 🚀 What I Do: 🌐 Web Development: Crafting responsive and user-friendly web applications. 💻 Python Programming: Writing clean, efficient, and scalable Python code. 🔄 Data Structures: Implementing custom data structures like stacks, queues, linked lists, and trees. 🎨 GUI Design: Developing attractive and intuitive user interfaces.
 
 * 🌍  I'm based in Pakistan
 * ✉️  You can contact me at [naqashajmal81@gmail.com](mailto:naqashajmal81@gmail.com)
